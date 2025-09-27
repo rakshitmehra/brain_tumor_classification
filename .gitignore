@@ -1,0 +1,6 @@
+.venv
+Brain Tumor Data set
+brain_tumor_models.h5
+brain_tumor_model.h5
+brain_tumor_model_crop.h5
+brain.ipynb
